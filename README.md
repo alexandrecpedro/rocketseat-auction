@@ -46,7 +46,7 @@ The following tools were used in building the project:<br><br>
 |               Database (Backend)                |      SQLITE       |   https://www.sqlite.org/index.html   |
 |         DotNET ORM (Backend, Database)          | ENTITY FRAMEWORK  | https://learn.microsoft.com/en-us/ef/ |
 |                    Security                     |        JWT        |            https://jwt.io/            |
-|                APi Documentation                |      SWAGGER      |          https://swagger.io/          |
+|                API Documentation                |      SWAGGER      |          https://swagger.io/          |
 </div>
 <br>
 
