@@ -753,5 +753,6 @@ $RECYCLE.BIN/
 # Additional files built by Visual Studio
 
 Database/
+.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,csharp,dotnetcore,dotenv,rider,visualstudio,visualstudiocode
